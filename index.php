@@ -7,6 +7,6 @@
     <title>Massanger</title>
 </head>
 <body>
-    
+    <?php require "php/index.php"?>
 </body>
 </html>
